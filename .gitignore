@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+/inventory-frontend/node_modules
+/inventory-backend/node_modules
+
+# Env files
+.env
+*.env
+
+# Builds
+dist/
+build/
+/inventory-frontend/dist
+
+# Logs
+*.log
+.DS_Store
+
+# Python cache
+__pychache__
+*.pyc
